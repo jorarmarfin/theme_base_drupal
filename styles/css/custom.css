@@ -1,9 +1,20 @@
-/**
- * Custom CSS
- * Use this file to override styles if you feel uncomfortable editing
- * component stylesheets.
- ============================================================================ */
+/*mis stilos sass*/
+/**	Colores **/
+/*Fondo*/
+.bg-color-azul-oscuro {
+  background: #01366c; }
 
+.bg-color-azul {
+  background: #024fa1; }
 
+.bg-color-azul-claro {
+  background: #007ac3; }
 
+.bg-color-verde {
+  background: #0aadaa; }
 
+/*Textos*/
+.text-color-white {
+  color: #fff; }
+
+/*# sourceMappingURL=custom.css.map */
