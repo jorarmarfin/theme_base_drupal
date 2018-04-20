@@ -11,4 +11,17 @@
 
 
 /*Textos*/
-.text-color-white{color:$white}
+.text-color-white{color:$white;}
+
+/*leaderboard*/
+#leaderboard{
+	background:$azul_oscuro;
+	.regions{
+		background-color:transparent;
+	}
+}
+
+/*Header*/
+#masthead{background:$azul;padding-top: 20px;height:100px;}
+
+#navbar{background-color:$white;color:$azul_oscuro;height: 40px;padding-top: 8px;}

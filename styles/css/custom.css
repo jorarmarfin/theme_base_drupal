@@ -17,4 +17,22 @@
 .text-color-white {
   color: #fff; }
 
+/*leaderboard*/
+#leaderboard {
+  background: #01366c; }
+  #leaderboard .regions {
+    background-color: transparent; }
+
+/*Header*/
+#masthead {
+  background: #024fa1;
+  padding-top: 20px;
+  height: 100px; }
+
+#navbar {
+  background-color: #fff;
+  color: #01366c;
+  height: 40px;
+  padding-top: 8px; }
+
 /*# sourceMappingURL=custom.css.map */
