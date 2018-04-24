@@ -39,11 +39,12 @@
   font-weight: bold;
   height: 35px;
   padding-top: 5px; }
-  #superfish-main--2 li:hover, #superfish-main--2 li .is-active {
+  #superfish-main--2 li:hover {
     background-color: #0088cb;
     border-radius: 5px;
-    color: white;
-    text-decoration-line: none; }
+    color: white; }
+    #superfish-main--2 li:hover a {
+      text-decoration-line: none; }
 
 /* Feature Box */
 .feature-box {
